@@ -32,3 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansah29&" alt="rohansah29" /></p>
 
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/rohansah29/rohansah29/blob/output/github-contribution-grid-snake.svg)
+
