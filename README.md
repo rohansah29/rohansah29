@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **redux & cypress**
 
-- 👨‍💻 All of my projects are available at [https://kumarrohan29.netlify.app/](https://kumarrohan29.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kumarrohan29.netlify.app/](https://rohansah29.github.io/)
 
 - 💬 Ask me about **react and Javascript**
 
