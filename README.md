@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansah29&label=Profile%20views&color=0e75b6&style=flat" alt="rohansah29" /> </p>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQF1_FuZwNyw9A/profile-displaybackgroundimage-shrink_350_1400/0/1681572672621?e=1694649600&v=beta&t=JrtfY5nLg_e0htwgljtvmqlqYF3glc8weVEP9N_reCw"></p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQF1_FuZwNyw9A/profile-displaybackgroundimage-shrink_350_1400/0/1681572673771?e=1707955200&v=beta&t=wUntY6nfLTou3y3QyvwJ1EdPZ28BCov9nRjzoSQ8DQ8"></p>
 
 - 🌱 I’m currently learning **redux & cypress**
 
