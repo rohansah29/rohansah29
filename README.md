@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://media.licdn.com/dms/image/D4D16AQF1_FuZwNyw9A/profile-displaybackgroundimage-shrink_350_1400/0/1681572673771?e=1707955200&v=beta&t=wUntY6nfLTou3y3QyvwJ1EdPZ28BCov9nRjzoSQ8DQ8"></p>
 
-- 🌱 I’m currently learning **redux & cypress**
+- 🌱 I’m currently learning **Next.js & cypress**
 
 - 👨‍💻 All of my projects are available at [https://rohansah29.github.io/]
 
